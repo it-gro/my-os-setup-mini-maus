@@ -1,0 +1,18 @@
+https://pcsupport.lenovo.com/de/de/products/laptops-and-netbooks/thinkbook-series/thinkbook-14s-yoga-itl/20we/20we0001mz/mp1zrel2?linkTrack=Homepage%3ABody_Search%20Products&searchType=6&keyWordSearch=mp1zrel2
+
+Seriennummer:MP1ZREL2
+Gerätetyp-Modell:20WE0001MZ
+
+# New-Item -ItemType File $profile
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+choco feature enable -n allowGlobalConfirmation
+
+choco install googlechrome
+choco install choco-cleaner
+choco install chocolateygui
+choco install vscode
+choco install notepadplusplus
+choco install microsoft-windows-terminal
+choco install git
+
