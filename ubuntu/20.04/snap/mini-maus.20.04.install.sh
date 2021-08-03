@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 sudo snap install code              --classic
 sudo snap install gimp
 sudo snap install kalzium
