@@ -50,16 +50,16 @@ mlocate nocache
 jq
 
 # spell
-iswiss
-iamerican
-#ibritish
-ding
-aspell-de
-mythes-en-us
-hyphen-en-us
-mythes-de-ch
-hyphen-de
-hunspell-de-ch-frami
+# iswiss
+# iamerican
+# #ibritish
+# ding
+# aspell-de
+# mythes-en-us
+# hyphen-en-us
+# mythes-de-ch
+# hyphen-de
+# hunspell-de-ch-frami
 
 
 # fonts
@@ -70,7 +70,7 @@ ttf-mscorefonts-installer
 
 
 ## Media/Video
-vlc
+# vlc
 smplayer smplayer-themes
 libavcodec-extra
 ubuntu-restricted-extras
