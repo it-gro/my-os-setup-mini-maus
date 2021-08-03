@@ -1,0 +1,2 @@
+sudo useradd -u 1012 -G sudo						 -s /bin/bash -m -d /home/daphne	 -c "Daphne Grossniklaus"	 daphne
+sudo passwd daphne

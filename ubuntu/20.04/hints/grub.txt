@@ -1,0 +1,7 @@
+sudo emacs /etc/default/grub
+
+GRUB_TIMEOUT=5
+GRUB_DEFAULT=saved
+GRUB_SAVEDEFAULT=true
+
+sudo update-grub

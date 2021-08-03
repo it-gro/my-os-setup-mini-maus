@@ -1,0 +1,93 @@
+# basics
+openssh-server
+git
+
+# Hardware
+lshw
+lshw-gtk
+
+# Software/Installation
+apt-show-versions
+aptitude synaptic gdebi-core
+flatpak
+
+# Software/Configuration
+gconf-editor
+# dconf-tools
+
+# cli Utility/Disk
+gparted
+
+# cli Utility/Network
+curl
+nmap
+traceroute
+wget
+whois
+
+# gui Utility/Network
+gufw
+
+
+# cli Utility/Monitoring
+htop
+
+# cli Utility/Diskspace
+ncdu
+
+# cli Utility/Editor
+emacs
+
+# cli Utility/zip
+p7zip-full
+
+# cli Utility/shell
+mc
+tree
+mlocate nocache
+
+# cli Utility
+jq
+
+# spell
+iswiss
+iamerican
+#ibritish
+ding
+aspell-de
+mythes-en-us
+hyphen-en-us
+mythes-de-ch
+hyphen-de
+hunspell-de-ch-frami
+
+
+# fonts
+fonts-emojione
+fonts-symbola
+fonts-noto-color-emoji
+ttf-mscorefonts-installer
+
+
+## Media/Video
+vlc
+smplayer smplayer-themes
+libavcodec-extra
+ubuntu-restricted-extras
+
+
+## ##################################################
+## GUI/Office
+
+## GUI/Config
+gnome-tweak-tool
+
+
+## ##################################################
+## Games
+extremetuxracer
+frozen-bubble
+lbreakout2
+liquidwar
+pingus
+supertuxkart
